@@ -4,7 +4,7 @@
  * Nota: NO hay que usar el ciclo "FOR OF", usar un observable y llamar la función capitalizar
  */
 
-import {filter, from, of} from "rxjs";
+import {from} from "rxjs";
 import {map} from "rxjs/operators";
 
 /**
